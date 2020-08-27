@@ -1,0 +1,2 @@
+# Data-analytics-project-1
+This is an educational work, the purpose of which is to improve the skills of working with the Pandas and Matplotlib libraries. This is a tutorial that aims to improve your skills with the Pandas and Matplotlib libraries. The tasks of this work included studying the available data, identifying dependencies and preparing an analytical report that will help to build a strategy for improving courses.
